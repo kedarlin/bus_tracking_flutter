@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "711637243935",
+    "project_id": "reddit-d",
+    "storage_bucket": "reddit-d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711637243935:android:237d3d619bf47b09699d2a",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711637243935-4erj33rcpgu4fbraopbf68dm8ktcttnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1LcN8M8cshGpZUntAjKRryegmNAhyScg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711637243935-4erj33rcpgu4fbraopbf68dm8ktcttnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711637243935-imv0fml5hoak2thdggdj8qqm2qm9g6hc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busTrackingSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
