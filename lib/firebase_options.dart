@@ -44,40 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBYmG3uqFUtfmfS5RWCf359BGdwTOSQsiM',
-    appId: '1:711637243935:web:bbf0a6eb967f3ce0699d2a',
-    messagingSenderId: '711637243935',
-    projectId: 'reddit-d',
-    authDomain: 'reddit-d.firebaseapp.com',
-    storageBucket: 'reddit-d.appspot.com',
-    measurementId: 'G-RYX1YY6NY8',
+    apiKey: 'AIzaSyCD-bzzD4ORpQxO9Mv-nHlXjFsHLetsMvI',
+    appId: '1:616602685564:web:67c9eec9b056b2cc12b9f9',
+    messagingSenderId: '616602685564',
+    projectId: 'arminnovators-e1fb9',
+    authDomain: 'arminnovators-e1fb9.firebaseapp.com',
+    storageBucket: 'arminnovators-e1fb9.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1LcN8M8cshGpZUntAjKRryegmNAhyScg',
-    appId: '1:711637243935:android:237d3d619bf47b09699d2a',
-    messagingSenderId: '711637243935',
-    projectId: 'reddit-d',
-    storageBucket: 'reddit-d.appspot.com',
+    apiKey: 'AIzaSyDoZ8dfEcXknHfS5qtY1lBM0k4VgrhyYGs',
+    appId: '1:616602685564:android:71df3184151d2ef712b9f9',
+    messagingSenderId: '616602685564',
+    projectId: 'arminnovators-e1fb9',
+    storageBucket: 'arminnovators-e1fb9.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCa1FKjdLAqGf5ObDWd2DVWjrnAWHge1eA',
-    appId: '1:711637243935:ios:c3d3a5ab4bdd647f699d2a',
-    messagingSenderId: '711637243935',
-    projectId: 'reddit-d',
-    storageBucket: 'reddit-d.appspot.com',
-    iosClientId: '711637243935-imv0fml5hoak2thdggdj8qqm2qm9g6hc.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCBy7HjsWS1KVOtXXEmQ8sG8a-R8Chbg7A',
+    appId: '1:616602685564:ios:39fd34b3cd67578212b9f9',
+    messagingSenderId: '616602685564',
+    projectId: 'arminnovators-e1fb9',
+    storageBucket: 'arminnovators-e1fb9.appspot.com',
     iosBundleId: 'com.example.busTrackingSystem',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCa1FKjdLAqGf5ObDWd2DVWjrnAWHge1eA',
-    appId: '1:711637243935:ios:c3d3a5ab4bdd647f699d2a',
-    messagingSenderId: '711637243935',
-    projectId: 'reddit-d',
-    storageBucket: 'reddit-d.appspot.com',
-    iosClientId: '711637243935-imv0fml5hoak2thdggdj8qqm2qm9g6hc.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCBy7HjsWS1KVOtXXEmQ8sG8a-R8Chbg7A',
+    appId: '1:616602685564:ios:39fd34b3cd67578212b9f9',
+    messagingSenderId: '616602685564',
+    projectId: 'arminnovators-e1fb9',
+    storageBucket: 'arminnovators-e1fb9.appspot.com',
     iosBundleId: 'com.example.busTrackingSystem',
   );
 }

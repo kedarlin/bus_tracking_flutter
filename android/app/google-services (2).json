@@ -7,25 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:616602685564:android:71df3184151d2ef712b9f9",
-        "android_client_info": {
-          "package_name": "com.example.bus_tracking_system"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDoZ8dfEcXknHfS5qtY1lBM0k4VgrhyYGs"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:616602685564:android:4c5d05becc4b6e4d12b9f9",
         "android_client_info": {
           "package_name": "com.example.vit"

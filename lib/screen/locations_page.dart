@@ -149,7 +149,7 @@ class _LocationsPageState extends State<LocationsPage> {
                         ),
                         SizedBox(height: 5),
                         Text(
-                          'Passengers: ${locationData['passengers']}',
+                          'Passengers: ${locationData['passenger']}',
                           style: TextStyle(
                             fontWeight: FontWeight.normal,
                             fontSize: 12,
