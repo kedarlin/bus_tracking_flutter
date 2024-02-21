@@ -1,4 +1,4 @@
-package com.example.bus_tracking_system
+package com.example.urban_voyager
 
 import io.flutter.embedding.android.FlutterActivity
 

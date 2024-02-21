@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:bus_tracking_system/screen/profile.dart';
+import 'package:urban_voyager/screen/profile.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class LocationsPage extends StatefulWidget {
